@@ -43,7 +43,7 @@ EOF
 }
 
 case "$ACTION" in
-        -h|--help)
+                -h|--help)
 				display_help
 				;;
 		-r|--remove)
